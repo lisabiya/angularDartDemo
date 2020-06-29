@@ -1,0 +1,10 @@
+.fontNormal {
+    font-size: 20px;
+}
+
+.inputCustom {
+    border-radius: 5px;
+    border-width: 4px;
+    border-color: #039be5;
+    padding: 16px;
+}
