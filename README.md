@@ -1,7 +1,13 @@
-# webSpace
+# angularDartDemo
 
-A web app that uses [AngularDart](https://angulardart.dev) and
-[AngularDart Components](https://angulardart.dev/components).
+angular+dart 开发的webAPP 
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+> [AngularDart](https://angulardart.dev) 
+
+> [AngularDart Components](https://angulardart.dev/components).
+---
+> ### 打包 
+
+```shell script
+webdev build
+```
