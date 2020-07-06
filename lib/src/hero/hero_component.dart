@@ -23,4 +23,5 @@ import 'hero.dart';
 class HeroComponent {
   @Input()
   Hero hero;
+
 }
